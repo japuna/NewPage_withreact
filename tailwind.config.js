@@ -11,8 +11,9 @@ module.exports = {
         4: "4px",
       },
       boxShadow: {
-        WhiteShadow: "2px 5px 12px 10px rgba(255, 255, 190, 0.3)",
+        midWhiteShadow: "2px 5px 12px 10px rgba(255, 255, 190, 0.2)",
         SecondaryShadow: "2px 5px 12px 10px rgba(12, 112, 157, 0.1);",
+        WhiteShadow: "2px 5px 12px 10px rgba(255, 255, 190, 0.3)"
       },
     },
   },

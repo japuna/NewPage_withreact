@@ -7,8 +7,10 @@ interface ButtonProps {
 const Profile = ({ }: ButtonProps): JSX.Element => {
   return (
     <ProfileStyles>
+      <div className="w-3/4">
+        <h2><span className="text-white">Curriculum</span><span className="text-secondary">Vitae</span></h2>
+      </div>  
       <img src={profileImage} alt="photo profile" />
-      <h3 className="w-2/3 text-lg font-normal"> Hi! Thanks for visiting my page. I'm <strong>Julio</strong> and I'm from Colombia. I'm a <b>Front-end developer</b> with over 7 years' experience. I'm going to <b>show you a little bit about me and my work</b>. If you need more info or you have any question, <b>do not hesitate to contact me.</b></h3>
     </ProfileStyles>  
   );
 };
