@@ -1,14 +1,14 @@
 import styled from "styled-components";
-import tw from "twin.macro"
+import tw from "twin.macro";
 
 export const ProfileStyles = styled.div`
-${tw`
+  ${tw`
   flex
   font-bold
   h-auto
   items-center
   justify-between
-  px-52
+  px-20
   pt-0
   pb-0
   text-xl
@@ -16,20 +16,20 @@ ${tw`
   bg-primary
 `}
   & h2 {
-   ${tw`
-    text-5xl`}
+    font-size: 2.6rem;
     &:before {
       ${tw`
         absolute
         content-['']
-        rounded-lg
+        rounded-2xl
         border-white
         border-solid
         border-2
         shadow-SecondaryShadow
       `}
-      width: 450px;
+      width: 380px;
       height: 70px;
+      margin-top: -1%;
       margin-left: -1%;
       transform: rotate(2deg);
     }
@@ -37,16 +37,16 @@ ${tw`
       ${tw`
         absolute
         content-['']
-        rounded-lg
+        rounded-2xl
         border-secondary
         border-solid
         border-2
         shadow-SecondaryShadow
       `}
-      width: 480px;
+      width: 400px;
       height: 70px;
-      margin-left: 0%;
-      margin-top: -0.2%;
+      margin-left: -5%;
+      margin-top: -1.2%;
       left: 9%;
       transform: rotate(-1deg);
     }
@@ -66,14 +66,13 @@ ${tw`
       bg-white
       absolute
       shadow-WhiteShadow
-      right-44
+      right-9
     `}
     height: 15rem;
     margin-top: -1%;
     transform: rotate(8deg);
   }
-`
-
+`;
 
 /*
 
@@ -92,6 +91,3 @@ bg-secondary
 `}
 `
 */
-
-
-

@@ -1,0 +1,73 @@
+{
+  "CV": {
+    "Profile": [
+      {
+        "text": "I have expertise in front-end development, with solid skills in languages like HTML, Javascript, CSS. Javascript libraries like Jquery, D3, Google maps, and frameworks like Angular and React. I work with agile methodologies like SCRUM and Design Thinking.\nDesign and start up of digital projects like web applications, animations, tutorials and other multimedia products. In this kind of projects, I have worked on User Experience design (UX), on Interface Design and on the creation of layouts, always aiming for intuitive good user experience applications, and at the same time, thinking in the client’s requirements. \rI consider myself a person who is always open to changes and to new opportunities, with teamwork skills. Proactive, critical of my own work and always ready to help my coworkers and to accept critics from them."
+      }
+    ],
+    "Education": [
+      {
+        "title": "2012-2013",
+        "subtitle": "License en Couleur, Image et Design",
+        "description": "Université de Toulouse: Le Mirail II"
+      },
+      {
+        "title": "2012",
+        "subtitle": "Diploma: Avant Garde in Photograms",
+        "description": "Escuela Black María"
+      },
+      {
+        "title": "2012",
+        "subtitle": "Diploma: Concept Art",
+        "description": "Arte Digital Foundation"
+      },
+      {
+        "title": "2005-2010",
+        "subtitle": "Multimedia Engineering",
+        "description": "Militar Nueva Granada University"
+      }
+    ],
+    "Experience": [
+      {
+        "title": "UX-Developer",
+        "subtitle": "Making Sense (2021 - present)",
+        "description": "Creation & layout of components (React, angular) with libraries like Tailwind and material."
+      },
+      {
+        "title": "Front-End Developer",
+        "subtitle": "Truth and Reconciliation Commission (2019-2020)",
+        "description": "Design and web development in Wordpress, HTML , Javascript, D3. Implementation of SCRUM strategies. Video editing."
+      },
+      {
+        "title": "Front-End Developer",
+        "subtitle": "VMLY&R (2019)",
+        "description": "HTML, Javascript, CSS, Wordpress. Data base administration and migration. Technical support."
+      },
+      {
+        "title": "Multimedia Engineer",
+        "subtitle": "Cómplice, Creative Studio (2018)",
+        "description": "UX Design, web developer. Digital strategy design."
+      },
+      {
+        "title": "Data Engineer",
+        "subtitle": "Superintendency of Notaries and Registry(2017)",
+        "description": "Web application generation for operator monitoring. Web site design and development. Video production."
+      },
+      {
+        "title": "Multimedia Engineer",
+        "subtitle": "DANE (2015-2017)",
+        "description": "Multi-platform web design and development. Statical graph visualization. Geography visualization."
+      },
+      {
+        "title": "Multimedia Engineer",
+        "subtitle": "Carvajal T&S (2013-2015)",
+        "description": "Responsive web application design and development. Ani- mation and video production for advertising purpose. 3D application generation to impro- ve user experience."
+      },
+      {
+        "title": "Web Master",
+        "subtitle": "Bogota French Alliance",
+        "description": "Maintenance and development of website. Graphical pieces for advertising purpose. Creation of multimedia products for educational purpose."
+      }
+    ]
+  }
+}

@@ -8,7 +8,6 @@ export const ButtonContainerStyles = tw.div`
   h-36
   items-center
   justify-center
-  mt-2
   p-2
   text-xl
   w-full
