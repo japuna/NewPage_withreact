@@ -3,6 +3,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
+First you should run npm run server , to run the JSON Server
 
 In the project directory, you can run:
 
